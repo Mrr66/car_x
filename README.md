@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/Mrr66/car_x/blob/main/carone.jpg?raw=true)](https://travis-ci.org/joemccann/dillinger)
+![Build Status](https://github.com/Mrr66/car_x/blob/main/carone.jpg?raw=true)
 # Speed Car
 ## Crie sua competição com outros jogadores
 
@@ -84,4 +84,4 @@ export function Car() {
 
 ## Development 
 Este projeto não permite múltiplos jogadores, fique a vontade para modificar
-[![Build Status](https://github.com/Mrr66/car_x/blob/main/car_2.jpg?raw=true)](https://travis-ci.org/joemccann/dillinger)
+![Build Status](https://github.com/Mrr66/car_x/blob/main/car_2.jpg?raw=true)
