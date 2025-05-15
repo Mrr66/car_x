@@ -5,9 +5,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-🚗 O Speed Car é um jogo de corrita simples e leve que roda em seu pc e celular
+🚗 O Speed Car é um jogo de corrida simples e leve que roda em seu PC e celular
 
-- Esolha o seu carro
+- Escolha o seu carro
 - Escolha a cor
 - ✨ Jogue quando quiser
 ## Features
@@ -18,8 +18,8 @@
 - Drag and drop
 - Audio mp3 e graficos 2d
 
-## Installation
-
+## Instalação
+#### * Basta fazer o git clone
 ## Build 
 
 ```js
@@ -83,5 +83,5 @@ export function Car() {
 ```
 
 ## Development 
-Este projeto não permite multiplos jogadores, fique a vontade para modificar
-
+Este projeto não permite múltiplos jogadores, fique a vontade para modificar
+[![Build Status](https://github.com/Mrr66/car_x/blob/main/car_2.jpg?raw=true)](https://travis-ci.org/joemccann/dillinger)
